@@ -11,4 +11,8 @@
 		<strong>start.bat</strong> in Windows, or <strong>./start.sh</strong>
 		in *nix environments.
 	</p>
+
+	<p>
+		The presentation used for this project lives in a Google document. It
+		can be found <a href="https://docs.google.com/presentation/d/1oQQJHEcepb_wvee-XBAb2seE_5TVaMn9niow6U0hirs/edit?usp=sharing">here</a>.
 </div>
